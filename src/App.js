@@ -6,7 +6,7 @@ import ImageFour from './components/ImageFour'
 import ImageFive from './components/ImageFive'
 import ImageSix from './components/ImageSix'
 import ImageSeven from './components/ImageSeven'
-import TextBox from './components/TextBox'
+// import TextBox from './components/TextBox'
 
 function App() {
   return (
